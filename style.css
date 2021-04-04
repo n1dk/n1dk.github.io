@@ -1,0 +1,271 @@
+html, body { width: 100%; height: 100%; margin: 0px 0px 0px 0px; padding: 0;  background-color: #0f4a0c; }
+* { z-index: 0; }
+
+.c_daily_text
+{
+	font: bold 10pt arial, sans-serif;
+	color: #fffbbb;
+}
+
+.c_daily_text_small
+{
+	font: bold 8pt arial, sans-serif;
+	color: #fffbbb;
+}
+
+.c_daily_text_title
+{
+	font: bold 10pt arial, sans-serif;
+	color: #e4d500;
+}
+
+.c_daily_text_title_small
+{
+	font: bold 9pt arial, sans-serif;
+	color: #e4d500;
+}
+
+.c_daily_text_title_green_small
+{
+	font: bold 9pt arial, sans-serif;
+	color: #88FF88;
+}
+
+
+
+
+.index_game_frame
+{
+	width: 760px;
+	height: 600px;
+	border: 3px solid #f8c030;
+}
+
+
+.c_loby_txt0
+{
+	font: normal 11pt arial, sans-serif;
+	color: #a2bb33;
+	font-style:italic;
+}
+
+.c_loby_txt0_highlight
+{
+	font: normal 11pt arial, sans-serif;
+	color: #dced90;
+	font-style:italic;
+}
+
+.c_loby_txt0_small
+{
+	font: normal 10pt arial, sans-serif;
+	color: #a2bb33;
+	font-style:italic;
+}
+
+.c_game_result_txt0
+{
+	font: bold 13pt arial, sans-serif;
+	color: #a2bb33;
+	font-style:italic;
+}
+
+.c_game_result_txt1
+{
+	font: bold 13pt arial, sans-serif;
+	color: #e4d500;
+	font-style:italic;
+}
+
+
+.c_loby_txt0_news
+{
+	font: normal 11pt arial, sans-serif;
+	color: #a2bb33;
+	font-style:italic;
+	line-height: 16.5px;
+}
+
+.c_loby_txt2
+{
+	font: normal 9pt arial, sans-serif;
+	color: #a2bb33;
+	font-style:italic;
+}
+
+.c_loby_txt_bold
+{
+	font: bold 11pt arial, sans-serif;
+	color: #a2bb33;
+	font-style:italic;
+}
+
+.c_loby_txt_small
+{
+	font: bold 8pt arial, sans-serif;
+	color: #a2bb33;
+	font-style:italic;
+}
+
+.c_loby_txt_small2
+{
+	font: normal 7pt arial, sans-serif;
+	color: #a2bb33;
+	font-style:italic;
+}
+
+.c_loby_txt0_link
+{
+	font: normal 11pt arial, sans-serif;
+	color: #e4d500;
+	font-style:italic;
+}
+
+.c_loby_txt1
+{
+	font: bold 9pt sans-serif, arial;
+	color: #c0dc39;
+}
+
+.join_btn_txt
+{
+	font: bold 10pt arial, sans-serif;
+	color: #e4d500;
+	font-style:italic;
+}
+
+.btn_class_small2
+{
+	font: bold 9pt arial, sans-serif;
+	color: #d6f7b5;
+	text-shadow: 0px 0px 1px #000000;
+}
+
+
+.btn_class
+{
+	font: bold 11pt arial, sans-serif;
+	color: #e4d500;
+	font-style:italic;
+	text-shadow: 0px 0px 1px #000000;
+}
+
+.btn_class_active
+{
+	font: bold 11pt arial, sans-serif;
+	color: #FFFFFF;
+	font-style:italic;
+	text-shadow: 0px 0px 1px #000000;
+}
+
+.btn_class_small
+{
+	font: bold 9pt arial, sans-serif;
+	color: #e4d500;
+	font-style:italic;
+	text-shadow: 0px 0px 1px #000000;
+}
+
+.btn_class_small_active
+{
+	font: bold 9pt arial, sans-serif;
+	color: #FFFFFF;
+	font-style:italic;
+	text-shadow: 0px 0px 1px #000000;
+}
+
+.btn_class_tiny_red
+{
+	font: bold 8pt arial, sans-serif;
+	color: #FF0000;
+	font-style:italic;
+	text-shadow: 0px 0px 1px #000000;
+}
+
+
+.btn_class_tiny
+{
+	font: bold 8pt arial, sans-serif;
+	color: #e4d500;
+	font-style:italic;
+	text-shadow: 0px 0px 1px #000000;
+}
+
+.btn_class_tiny_active
+{
+	font: bold 8pt arial, sans-serif;
+	color: #FFFFFF;
+	font-style:italic;
+	text-shadow: 0px 0px 1px #000000;
+}
+
+.error_text
+{
+	font: bold 10pt arial, sans-serif;
+	color: #FF0000;
+	font-style:italic;
+}
+
+
+.error_text_small
+{
+	font: bold 9pt arial, sans-serif;
+	color: #FF0000;
+	font-style:italic;
+}
+
+
+.input_style0
+{
+	position:absolute;
+	
+	font: normal 10pt arial, sans-serif;
+	color: #dfd503;
+	
+	background-color: transparent;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.input_style0_9
+{
+	position:absolute;
+	
+	font: normal 9pt arial, sans-serif;
+	color: #dfd503;
+	
+	background-color: transparent;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+
+
+.progress_fill
+{
+	background-image: url('../i/progress_fill.png');
+	top: 61px;
+	left: 115px;
+	width: 130px;
+	height: 11px;
+	position: absolute;
+}
+
+input:focus { outline: none; }
+textarea:focus { outline: none; }
+select:focus { outline: none; }
+select
+{
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	appearance: none;
+	background-color: transparent;
+	margin: 0;
+	padding: 0;
+	border: 0;
+} 
+textarea { overflow: auto; }
+
+}
