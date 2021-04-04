@@ -1,0 +1,123 @@
+Uri: http://batlum.com/batlum.html
+File Name: C:\Downloaded Web Sites\batlum.com\batlum.html
+Content Type: text/html
+
+Uri: http://batlum.com/directlogin/style.css
+File Name: C:\Downloaded Web Sites\batlum.com\directlogin\style.css
+Content Type: text/css
+
+Uri: http://batlum.com/directlogin/jquery-1.6.1.min.js
+File Name: C:\Downloaded Web Sites\batlum.com\directlogin\jquery-1.6.1.min.js
+Content Type: application/javascript
+
+Uri: http://batlum.com/directlogin/direct_login_back_2.png
+File Name: C:\Downloaded Web Sites\batlum.com\directlogin\direct_login_back_2.png
+Content Type: image/png
+
+Uri: http://batlum.com/directlogin/button_dark_139_40.png
+File Name: C:\Downloaded Web Sites\batlum.com\directlogin\button_dark_139_40.png
+Content Type: image/png
+
+Uri: http://batlum.com/directlogin/button_dark_179_40.png
+File Name: C:\Downloaded Web Sites\batlum.com\directlogin\button_dark_179_40.png
+Content Type: image/png
+
+Uri: http://batlum.com/directlogin/2.png
+File Name: C:\Downloaded Web Sites\batlum.com\directlogin\2.png
+Content Type: image/png
+
+Uri: https://mc.yandex.ru/watch/59209909/1
+File Name: C:\Downloaded Web Sites\batlum.com\watch\59209909\1.gif
+Content Type: image/gif
+
+s\batlum.com\ajax_txt.js
+Content Type: application/javascript
+
+Uri: http://batlum.com/test/translit.js
+File Name: C:\Downloaded Web Sites\batlum.com\test\translit.js
+Content Type: application/javascript
+
+Uri: http://batlum.com/test/json2.js
+File Name: C:\Downloaded Web Sites\batlum.com\test\json2.js
+Content Type: application/javascript
+
+Uri: http://aim-masters.com/country_code.php?uid=812c76aee61fe4003c112
+File Name: C:\Downloaded Web Sites\batlum.com\country_code.php.html
+Content Type: text/html
+
+Uri: http://batlum.com/test/vkontakte.js?v32111
+File Name: C:\Downloaded Web Sites\batlum.com\test\vkontakte.js
+Content Type: application/javascript
+
+Uri: http://batlum.com/test/index.js?v134730756
+File Name: C:\Downloaded Web Sites\batlum.com\test\index.js
+Content Type: application/javascript
+
+Uri: http://batlum.com/getunity.png
+File Name: C:\Downloaded Web Sites\batlum.com\getunity.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/cheetos_bg.jpg
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\cheetos_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://batlum.com/test/i/cheetos_banner_1.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\cheetos_banner_1.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/cheetos_banner_1_close.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\cheetos_banner_1_close.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/cheetos_banner_1_btn.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\cheetos_banner_1_btn.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/cheetos_details.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\cheetos_details.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/1x1e.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\1x1e.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/cheetos_banner_2.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\cheetos_banner_2.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/cheetos_banner_2_btn.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\cheetos_banner_2_btn.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/cheetos_banner_3.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\cheetos_banner_3.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/cheetos_banner_4.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\cheetos_banner_4.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/pubm_banner_rus.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\pubm_banner_rus.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/pumb_close.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\pumb_close.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/pumb_btn.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\pumb_btn.png
+Content Type: image/png
+
+Uri: http://batlum.com/bg.png
+File Name: C:\Downloaded Web Sites\batlum.com\bg.png
+Content Type: image/png
+
+Uri: http://batlum.com/test/i/money_1w.png
+File Name: C:\Downloaded Web Sites\batlum.com\test\i\money_1w.png
+Content Type: image/png
+
+Uri: https://unity.com/
+File Name: C:\Downloaded Web Sites\batlum.com\index.htm
+Content Type: text/html
+
